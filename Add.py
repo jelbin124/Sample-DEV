@@ -4,5 +4,5 @@ z = 22
 print(x + y + z)
 A = 10 + 10 + 10
 print(A)
-print(x + A)
+print(x + A
 
